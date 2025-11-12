@@ -1,0 +1,5 @@
+"Employee_ID","Name","Current_Skills","Performance_Score","Predicted_Skill_Gaps","Learning_Path","Microlearning_Nudges","Last_Training_Date","Next_Training_Module","Feedback_Score"
+"101","Alice","CRM, Communication","78","Data Visualization","Data Viz Basics","15-min daily quiz","2025-07-01","Data Viz Advanced","4.2"
+"102","Bob","Data Analysis, Excel","82","Python, Machine Learning","Python ML Intro","Weekly challenge","2025-06-15","ML Projects","4.5"
+"103","Carol","Customer Service, Chat","74","Conflict Resolution","Conflict Mgmt Workshop","Scenario flashcard","2025-07-20","Handling Difficult Customers","3.8"
+"104","David","Project Management, Agile","88","Cloud Computing","Cloud Fundamentals","Video summaries","2025-06-30","Advanced Cloud","4.7"
